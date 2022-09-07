@@ -1,0 +1,3 @@
+here we made some changes.
+
+here we skip staged area
